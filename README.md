@@ -21,6 +21,7 @@
 |[위드이노베이션](https://www.withinnovation.co.kr/)|Kotlin, Java|Clean, MVP, MVVM|[채용](https://www.wanted.co.kr/wd/25652?referer_id=192551)|
 |[Station3 다방](https://www.dabangapp.com)|Kotlin, Java|MVP, MVVM|
 |[Medibloc](https://medibloc.org/)|Kotlin|Clean, MVVM|
+|[소리를 보는 통로] |[채용 및 업무 환경(http://bit.ly/2E2VpHX)|Kotlin, Java|MVP, MVVM|[소리를 보는 통로 웹사이트](https://www.sovoro.kr/home/main)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -89,14 +90,17 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 소리를 보는 통로
 
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
 - SweetTracker
+- 소리를 보는 통로
 
 ### [Anko](https://github.com/Kotlin/anko)
 - 스푼라디오
+- 소리를 보는 통로
 
 ### [ButterKnife](https://github.com/JakeWharton/butterknife)
 - 캐시워크
@@ -159,6 +163,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 소리를 보는 통로
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -240,7 +245,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
-
+- 소리를 보는 통로
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -256,17 +261,19 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 소리를 보는 통로
 
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
 - 빙글
 - Medibloc
-
+- 소리를 보는 통로
 
 ### [RxLifecycle](https://github.com/trello/RxLifecycle)
 - PRND Company
 - 빙글
+- 소리를 보는 통로
 
 ### [TedKeyboardObserver](https://github.com/ParkSangGwon/TedKeyboardObserver)
 - PRND Company
