@@ -21,7 +21,7 @@
 |[위드이노베이션](https://www.withinnovation.co.kr/)|Kotlin, Java|Clean, MVP, MVVM|[채용](https://www.wanted.co.kr/wd/25652?referer_id=192551)|
 |[Station3 다방](https://www.dabangapp.com)|Kotlin, Java|MVP, MVVM|
 |[Medibloc](https://medibloc.org/)|Kotlin|Clean, MVVM|
-|소리를 보는 통로 |[채용 및 업무 환경(http://bit.ly/2E2VpHX)|Kotlin, Java|MVP, MVVM|소리를 보는 통로 웹사이(https://www.sovoro.kr/home/main)|
+|[소리를 보는 통로](https://www.sovoro.kr/home/main)|Kotlin, Java|MVP, MVVM|[채용 및 업무환경](http://bit.ly/2E2VpHX)
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
